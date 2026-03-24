@@ -114,11 +114,6 @@ ecommerce-sql-warehouse/
 
 ---
 
-## 💼 Resume Line
-Built a SQL-based Data Warehouse using Star Schema to analyze 100K+ e-commerce transactions, generating insights on customer segmentation, revenue trends, and payment behavior using PostgreSQL.
-
----
-
 ## 👨‍💻 Author
 - **Name:** Ujjwal
 - **GitHub:** github.com/ujjwal
